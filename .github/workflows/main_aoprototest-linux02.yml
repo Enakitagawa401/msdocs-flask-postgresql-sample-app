@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AOPrototest-linux02'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9F84F795E074273BF0E8C1B61082933 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_48597E2F1E164DFDA9AF16493E12624C }}
